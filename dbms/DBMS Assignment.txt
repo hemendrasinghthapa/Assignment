@@ -253,12 +253,6 @@ INSERT INTO Customer (C_NO, C_NAME, CITY, RATING, SNO_FK) VALUES
 
 	QUERIES :-
 
-1. Retrieve the below data from above table
-
-2. All orders for more than $1000.
-
-
-
 3. Names and cities of all salespeople in London with commission above 0.12
 
 Ans:-  SELECT S_NAME, CITY
