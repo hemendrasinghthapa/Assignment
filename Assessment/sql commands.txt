@@ -1,0 +1,11 @@
+                                                             sql commands
+ddl                         dml                     dcl                       tcl                               dql   
+create                     insert                  grand                    commit                              select
+alter                     update                   revoke                  roll black
+drop                        delete                                          save point
+truncate 
+
+
+
+
+
