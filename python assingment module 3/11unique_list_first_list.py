@@ -10,3 +10,19 @@ for s in list:
     if s not in unique_list:
         unique_list.append(s)
 print(unique_list)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
